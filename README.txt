@@ -1,4 +1,4 @@
-# Divvy Bike Sharing Analysis: Chicago 2017 Q1-Q2
+Divvy Bike Sharing Analysis: Chicago 2017 Q1-Q2
 
 A comprehensive analysis of Chicago's Divvy bike-sharing program using 2017 first and second quarter data, examining user behavior patterns, operational efficiency, and spatial usage trends across the city.
 
